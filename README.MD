@@ -125,10 +125,4 @@ The availability and correctness of each metric depend on the source data, event
 - Export key analytical outputs to dedicated CSV files.
 - Document metric definitions and assumptions alongside results.
 
-## Disclaimer
 
-This is a data-cleaning and analytics project. Reported findings should be considered exploratory until the transformation rules, tests, and metric reconciliations have been reviewed.
-
-## License
-
-Add a license if you intend to distribute or publish this project.
